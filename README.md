@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/sithijau" target="blank"><img src="https://img.shields.io/twitter/follow/sithijau?logo=twitter&style=for-the-badge" alt="sithijau" /></a> </p>
 
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [sithijaudayawickrama.me](sithijaudayawickrama.me)
